@@ -12,9 +12,9 @@ Quick test<br>
 ```python<br>
 import EvenOddPrimeCheck as ep<br>
 
-ep.EOP_Checker(122)<br>
-ep.EOP_Checker(1)<br>
-ep.EOP_Checker(2)<br>
-ep.EOP_Checker(111)<br>
-ep.EOP_Checker(3)<br>
+ep.EOP_Checker(122)
+ep.EOP_Checker(1)
+ep.EOP_Checker(2)
+ep.EOP_Checker(111)
+ep.EOP_Checker(3)
 ```

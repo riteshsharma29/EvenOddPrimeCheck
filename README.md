@@ -1,16 +1,13 @@
-# EvenOddPrimeCheck
-Python program to check if a number is Even / Odd  / Prime <br>
+EvenOddPrimeCheck
+===================
 
-EvenOddPrimeCheck<br>
-===================<br>
+EvenOddPrimeCheck is simple Python library to test if a number is Even OR Odd OR Prime.
 
-EvenOddPrimeCheck is simple Python library to test if a number is Even OR Odd OR Prime.<br>
+----------
+Quick test
 
-----------<br>
-Quick test<br>
-
-```python<br>
-import EvenOddPrimeCheck as ep<br>
+```python
+import EvenOddPrimeCheck as ep
 
 ep.EOP_Checker(122)
 ep.EOP_Checker(1)
